@@ -35,3 +35,9 @@ sudo wget -O /usr/local/bin/git-export-changes \
 https://raw.githubusercontent.com/anselmobarbosa/git-export-changes/main/git-export-changes
 sudo chmod +x /usr/local/bin/git-export-changes
 ```
+
+## 🪪 License
+
+MIT License © 2025 [Anselmo Barbosa](https://github.com/anselmobarbosa)
+
+You are free to use, modify, and distribute this script as long as the original author and license notice are preserved.
