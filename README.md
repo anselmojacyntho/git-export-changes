@@ -32,7 +32,7 @@ You can install it in two easy ways:
 ### 🪣 Option 1 — Clone the repository
 
 ```bash
-git clone https://github.com/anselmobarbosa/git-export-changes.git
+git clone https://github.com/anselmojacyntho/git-export-changes.git
 cd git-export-changes
 chmod +x git-export-changes
 sudo cp git-export-changes /usr/local/bin/git-export-changes
@@ -42,7 +42,7 @@ sudo cp git-export-changes /usr/local/bin/git-export-changes
 
 ```bash
 sudo wget -O /usr/local/bin/git-export-changes \
-https://raw.githubusercontent.com/anselmobarbosa/git-export-changes/main/git-export-changes
+https://raw.githubusercontent.com/anselmojacyntho/git-export-changes/main/git-export-changes
 sudo chmod +x /usr/local/bin/git-export-changes
 ```
 
@@ -70,6 +70,6 @@ sudo rm /usr/local/bin/git-export-changes
 
 ## 🪪 License
 
-MIT License © 2025 [Anselmo Barbosa](https://github.com/anselmobarbosa)
+MIT License © 2025 [Anselmo Barbosa](https://github.com/anselmojacyntho)
 
 You are free to use, modify, and distribute this script as long as the original author and license notice are preserved.
